@@ -54,7 +54,7 @@ var App = (function() {
     var options = state.debtors.map(function(d) { return '<option value="' + esc(d.id) + '">' + esc(d.name) + '</option>'; }).join('');
     return '<div class="home-page">' +
       '<div class="home-hero">' +
-        '<div class="home-logo">\u20BF</div><h1>DebtSync</h1><p>ระบบบริหารจัดการหนี้</p>' +
+        '<div class="home-logo">\u20BF</div><h1>การเงิน นพค.25</h1><p>ระบบบริหารจัดการหนี้</p>' +
       '</div>' +
       '<div class="home-card">' +
         '<h2>ตรวจสอบสถานะหนี้</h2><p>เลือกชื่อของคุณเพื่อดูรายการหนี้และแจ้งชำระเงิน</p>' +

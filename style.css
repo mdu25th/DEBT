@@ -602,7 +602,7 @@ tr:hover td { background: rgba(255,255,255,0.02); }
   .page-inner { padding: 14px; }
   .stats-grid { gap: 10px; }
   .stat-value { font-size: 22px; }
-  th:nth-child(n+5), td:nth-child(n+5) { display: none; }
+  th:nth-child(n+6), td:nth-child(n+6) { display: none; }
   .modal { max-height: 85vh; }
 }
 

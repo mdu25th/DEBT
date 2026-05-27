@@ -3,7 +3,7 @@
 // ============================================================
 
 // ⚠️ สำคัญมาก: นำ Web App URL ที่ได้จากการ Deploy GAS มาใส่ที่ตัวแปรนี้
-const GAS_WEB_APP_URL = 'https://script.google.com/macros/s/YOUR_WEB_APP_ID/exec'; 
+const GAS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyFqY15gY1BBq1c_NizOgsXFM_tE4fIpG6bR2RD04dLAxj-GsU7JN4Wq8Md92SExDpj/exec'; 
 
 var App = (function() {
   var state = {
